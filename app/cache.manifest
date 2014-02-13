@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# 2012-27-18:v1
+
+# Explicitly cached resources.
+CACHE:
+index.html
+css/stylesheet.css
+Images/logo.png
+scripts/main.js
+
+# White Listed Resources, requires connectivity, will bypass cache
+NETWORK:
+http://api.twitter.com
+
+
+# offline.html will be displayed, if *.HTML are not available.
+FALLBACK:
+*.html /static.html

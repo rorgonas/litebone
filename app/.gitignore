@@ -1,2 +1,4 @@
-scripts/vendor/
-build
+scripts/libs/
+node_modules
+dist
+report
