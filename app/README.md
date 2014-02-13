@@ -11,4 +11,4 @@ app/build/build.sh
 chmod -x app/build/build.sh
 
 
-For reference visit tutorial: http://www.youtube.com/watch?v=USk1ie30z5k
+Template created based on: http://www.youtube.com/watch?v=USk1ie30z5k
